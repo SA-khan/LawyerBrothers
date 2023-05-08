@@ -147,13 +147,13 @@ const App = () => {
                     <div className="row g-3 pt-3">
                         <div className="col-sm-3 col-6">
                             <div className="bg-light text-center rounded-circle py-4">
-                                <i className="fa fa-3x fa-user-md text-primary mb-3"></i>
+                                <i className="fa fa-3x fa-cogs text-primary mb-3"></i>
                                 <h6 className="mb-0">Qualified<small className="d-block text-primary">Lawyers</small></h6>
                             </div>
                         </div>
                         <div className="col-sm-3 col-6">
                             <div className="bg-light text-center rounded-circle py-4">
-                                <i className="fa fa-3x fa-procedures text-primary mb-3"></i>
+                                <i className="fa fa-3x fa-eye text-primary mb-3"></i>
                                 <h6 className="mb-0">360<small className="d-block text-primary">Solution Services</small></h6>
                             </div>
                         </div>
@@ -190,9 +190,9 @@ const App = () => {
                 <div className="col-lg-4 col-md-6">
                     <div className="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div className="service-icon mb-4">
-                            <i className="fa fa-2x fa-user-md text-white"></i>
+                            <i className="fa fa-2x fa-globe text-white"></i>
                         </div>
-                        <h4 className="mb-3">Global Services</h4>
+                        <h4 className="mb-3">Global Corporate Services</h4>
                         <p className="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
                         <a className="btn btn-lg btn-primary rounded-pill" href="">
                             <i className="bi bi-arrow-right"></i>
@@ -202,9 +202,9 @@ const App = () => {
                 <div className="col-lg-4 col-md-6">
                     <div className="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div className="service-icon mb-4">
-                            <i className="fa fa-2x fa-procedures text-white"></i>
+                            <i className="fa fa-2x fa-paw text-white"></i>
                         </div>
-                        <h4 className="mb-3">Operation & Surgery</h4>
+                        <h4 className="mb-3">Corporate Affairs</h4>
                         <p className="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
                         <a className="btn btn-lg btn-primary rounded-pill" href="">
                             <i className="bi bi-arrow-right"></i>
@@ -214,9 +214,9 @@ const App = () => {
                 <div className="col-lg-4 col-md-6">
                     <div className="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div className="service-icon mb-4">
-                            <i className="fa fa-2x fa-stethoscope text-white"></i>
+                            <i className="fa fa-2x fa-street-view text-white"></i>
                         </div>
-                        <h4 className="mb-3">Outdoor Checkup</h4>
+                        <h4 className="mb-3">360 Degreee View</h4>
                         <p className="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
                         <a className="btn btn-lg btn-primary rounded-pill" href="">
                             <i className="bi bi-arrow-right"></i>
@@ -226,9 +226,9 @@ const App = () => {
                 <div className="col-lg-4 col-md-6">
                     <div className="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div className="service-icon mb-4">
-                            <i className="fa fa-2x fa-ambulance text-white"></i>
+                            <i className="fa fa-2x fa-users text-white"></i>
                         </div>
-                        <h4 className="mb-3">Ambulance Service</h4>
+                        <h4 className="mb-3">Corporate Clients</h4>
                         <p className="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
                         <a className="btn btn-lg btn-primary rounded-pill" href="">
                             <i className="bi bi-arrow-right"></i>
@@ -238,9 +238,9 @@ const App = () => {
                 <div className="col-lg-4 col-md-6">
                     <div className="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div className="service-icon mb-4">
-                            <i className="fa fa-2x fa-pills text-white"></i>
+                            <i className="fa fa-2x fa-road text-white"></i>
                         </div>
-                        <h4 className="mb-3">Medicine & Pharmacy</h4>
+                        <h4 className="mb-3">Road Map</h4>
                         <p className="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
                         <a className="btn btn-lg btn-primary rounded-pill" href="">
                             <i className="bi bi-arrow-right"></i>
@@ -250,9 +250,9 @@ const App = () => {
                 <div className="col-lg-4 col-md-6">
                     <div className="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div className="service-icon mb-4">
-                            <i className="fa fa-2x fa-microscope text-white"></i>
+                            <i className="fa fa-2x fa-bullhorn text-white"></i>
                         </div>
-                        <h4 className="mb-3">Blood Testing</h4>
+                        <h4 className="mb-3">Mission & Milestone</h4>
                         <p className="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
                         <a className="btn btn-lg btn-primary rounded-pill" href="">
                             <i className="bi bi-arrow-right"></i>
