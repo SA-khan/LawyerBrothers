@@ -9,7 +9,7 @@ const App = () => {
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
     {/* <!-- Favicon --> */}
-    <link href="/images/logo.ico" rel="icon" />
+    <link href="/images/-edit.png" rel="icon" />
 
     {/* <!-- Google Web Fonts --> */}
     <link rel="preconnect" href="https://fonts.gstatic.com" />
@@ -71,7 +71,7 @@ const App = () => {
         <div className="container">
             <nav className="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0">
                 <a href="index.html" className="navbar-brand">
-                    <h1 className="m-0 text-uppercase text-primary"><i className="fa fa-clinic-medical me-2"></i>Lawyer's Brother</h1>
+                    <h1 className="m-0 text-uppercase text-primary"><i className="fa fa-gavel me-2"></i>Lawyer's Brother</h1>
                 </a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span className="navbar-toggler-icon"></span>
@@ -109,7 +109,7 @@ const App = () => {
                     <h5 className="d-inline-block text-primary text-uppercase border-bottom border-5" 
                     // style="border-color: rgba(256, 256, 256, .3) !important;"
                     >Welcome To Lawyer's Brother</h5>
-                    <h1 className="display-1 text-white mb-md-4">We Provide Best Consultancy Solutions Across The Globe</h1>
+                    <h1 className="display-1 text-white mb-md-4">We Provide Best Legal Consultancy Across The Globe</h1>
                     <div className="pt-2">
                         {/* <a href="" className="btn btn-light rounded-pill py-md-3 px-md-5 mx-2">
                           Find Doctor
@@ -516,14 +516,14 @@ const App = () => {
             {/* styles="max-width: 500px;" */}
             
                 <h5 className="d-inline-block text-primary text-uppercase border-bottom border-5">Blog Post</h5>
-                <h1 className="display-4">Our Latest Medical Blog Posts</h1>
+                <h1 className="display-4">Our Latest Legal Blog Posts</h1>
             </div>
             <div className="row g-5">
                 <div className="col-xl-4 col-lg-6">
                     <div className="bg-light rounded overflow-hidden">
-                        <img className="img-fluid w-100" src="images/blog-1.jpg" alt="" />
+                        <img className="img-fluid w-100" src="images/lawyer-1.jpg" alt="" />
                         <div className="p-4">
-                            <a className="h3 d-block mb-3" href="">Dolor clita vero elitr sea stet dolor justo  diam</a>
+                            <a className="h3 d-block mb-3" href="">Justice and Equality</a>
                             <p className="m-0">Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna
                                 rebum clita rebum dolor stet amet justo</p>
                         </div>
@@ -541,16 +541,16 @@ const App = () => {
                 </div>
                 <div className="col-xl-4 col-lg-6">
                     <div className="bg-light rounded overflow-hidden">
-                        <img className="img-fluid w-100" src="images/blog-2.jpg" alt="" />
+                        <img className="img-fluid w-100" src="images/lawyer-2.jpg" alt="" />
                         <div className="p-4">
-                            <a className="h3 d-block mb-3" href="">Dolor clita vero elitr sea stet dolor justo  diam</a>
+                            <a className="h3 d-block mb-3" href="">Justice prevail only dely!</a>
                             <p className="m-0">Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna
                                 rebum clita rebum dolor stet amet justo</p>
                         </div>
                         <div className="d-flex justify-content-between border-top p-4">
                             <div className="d-flex align-items-center">
                                 <img className="rounded-circle me-2" src="images/user.jpg" width="25" height="25" alt="" />
-                                <small>John Doe</small>
+                                <small>Muhammad Faraz</small>
                             </div>
                             <div className="d-flex align-items-center">
                                 <small className="ms-3"><i className="far fa-eye text-primary me-1"></i>12345</small>
@@ -561,15 +561,15 @@ const App = () => {
                 </div>
                 <div className="col-xl-4 col-lg-6">
                     <div className="bg-light rounded overflow-hidden">
-                        <img className="img-fluid w-100" src="images/blog-3.jpg" alt="" />
+                        <img className="img-fluid w-100" src="images/lawyer-3.jpg" alt="" />
                         <div className="p-4">
-                            <a className="h3 d-block mb-3" href="">Dolor clita vero elitr sea stet dolor justo  diam</a>
+                            <a className="h3 d-block mb-3" href="">Freedom and Freeman </a>
                             <p className="m-0">Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna
                                 rebum clita rebum dolor stet amet justo</p>
                         </div>
                         <div className="d-flex justify-content-between border-top p-4">
                             <div className="d-flex align-items-center">
-                                <img className="rounded-circle me-2" src="images/user.jpg" width="25" height="25" alt="" />
+                                <img className="rounded-circle me-2" src="images/lawyer-3.jpg" width="25" height="25" alt="" />
                                 <small>John Doe</small>
                             </div>
                             <div className="d-flex align-items-center">
@@ -591,10 +591,10 @@ const App = () => {
             <div className="row g-5">
                 <div className="col-lg-3 col-md-6">
                     <h4 className="d-inline-block text-primary text-uppercase border-bottom border-5 border-secondary mb-4">Get In Touch</h4>
-                    <p className="mb-4">No dolore ipsum accusam no lorem. Invidunt sed clita kasd clita et et dolor sed dolor</p>
-                    <p className="mb-2"><i className="fa fa-map-marker-alt text-primary me-3"></i>123 Street, New York, USA</p>
-                    <p className="mb-2"><i className="fa fa-envelope text-primary me-3"></i>info@example.com</p>
-                    <p className="mb-0"><i className="fa fa-phone-alt text-primary me-3"></i>+012 345 67890</p>
+                    <p className="mb-4">We are here for one click solutions to your corporate world!</p>
+                    <p className="mb-2"><i className="fa fa-map-marker-alt text-primary me-3"></i>123 Street, Karachi, PK</p>
+                    <p className="mb-2"><i className="fa fa-envelope text-primary me-3"></i>info@lawyerbrother.com</p>
+                    <p className="mb-0"><i className="fa fa-phone-alt text-primary me-3"></i>+92 302 247 879 4</p>
                 </div>
                 <div className="col-lg-3 col-md-6">
                     <h4 className="d-inline-block text-primary text-uppercase border-bottom border-5 border-secondary mb-4">Quick Links</h4>

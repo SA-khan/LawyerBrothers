@@ -97,7 +97,7 @@
 }
 
 .hero-header {
-  background: url(images/main-header.jpg) top right no-repeat;
+  background-image: url(images/hero.jpg) top right no-repeat;
   background-size: cover;
 }
 
